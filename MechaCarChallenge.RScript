@@ -2,5 +2,8 @@ MechaCar <- read.csv(file='MechaCar_mpg.csv',check.names = F,stringsAsFactors = 
 lm(mpg~ vehicle_length+vehicle_weight+spoiler_angle+ground_clearance+AWD,data=MechaCar)
 summary(lm(mpg~ vehicle_length+vehicle_weight+spoiler_angle+ground_clearance+AWD,data=MechaCar))
 S_Coil <- read.csv(file='Suspension_Coil.csv',check.names = F,stringsAsFactors = F)
-summarize_plot <- S_Coil %>% group_by(Manufacturing_Lot) %>%
-summarize(Mean_PSI=mean(PSI),Median_PSI=median(PSI),Variance_PSI=var(PSI),StanDev_PSI=sd(PSI),.groups='keep') #create summary table with multiple columns
+total_summary <-S_Coil %>% summarize(Mean_PSI=mean(PSI),Median_PSI=median(PSI),Variance_PSI=var(PSI),StanDev_PSI=sd(PSI),.groups='keep')
+lot_summary <- S_Coil %>% group_by(Manufacturing_Lot) %>%
+summarize(Mean_PSI=mean(PSI),Median_PSI=median(PSI),Variance_PSI=var(PSI),StanDev_PSI=sd(PSI),.groups='keep')
+summarize_lot <-Suspenmsion
+t.test()
