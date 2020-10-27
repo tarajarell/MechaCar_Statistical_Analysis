@@ -4,6 +4,7 @@
 short summary using a screenshot of the output from the linear regression
 ![Del_1_Call_Residuals_Coefficients.to.spoiler_angle](https://github.com/tarajarell/MechaCar_Statistical_Analysis/blob/main/Del_1_Call_Residuals_Coefficients.to.spoiler_angle.jpg)
 ![Del_1_Call_Coefficients_Signif](https://github.com/tarajarell/MechaCar_Statistical_Analysis/blob/main/Del_1_Coefficients_Signif.jpg)
+
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 Is the slope of the linear model considered to be zero? Why or why not?
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
