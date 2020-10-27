@@ -19,7 +19,10 @@ Does the current manufacturing data meet this design specification for all manuf
 
 ## T-Tests on Suspension Coils
 briefly summarize your interpretation and findings for the t-test results. 
-Include screenshots of the t-test to support your summary.
+![https://github.com/tarajarell/MechaCar_Statistical_Analysis/blob/main/Del_3_t-test_all_lots.jpg](https://github.com/tarajarell/MechaCar_Statistical_Analysis/blob/main/Del_3_t-test_all_lots.jpg)
+![https://github.com/tarajarell/MechaCar_Statistical_Analysis/blob/main/Del_3_t-test_lots_1_2.jpg](https://github.com/tarajarell/MechaCar_Statistical_Analysis/blob/main/Del_3_t-test_lots_1_2.jpg)
+![https://github.com/tarajarell/MechaCar_Statistical_Analysis/blob/main/Del_3_t-test_lots_1_3.jpg](https://github.com/tarajarell/MechaCar_Statistical_Analysis/blob/main/Del_3_t-test_lots_1_3.jpg)
+![https://github.com/tarajarell/MechaCar_Statistical_Analysis/blob/main/Del_3_t-test_lots_2_3.jpg](https://github.com/tarajarell/MechaCar_Statistical_Analysis/blob/main/Del_3_t-test_lots_2_3.jpg)
 
 ## Study Design: MechaCar vs Competition.
 Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
