@@ -5,9 +5,6 @@ Summary:
 ![Del_1_Call_Residuals_Coefficients.to.spoiler_angle](https://github.com/tarajarell/MechaCar_Statistical_Analysis/blob/main/Del_1_Call_Residuals_Coefficients.to.spoiler_angle.jpg)
 ![Del_1_Call_Coefficients_Signif](https://github.com/tarajarell/MechaCar_Statistical_Analysis/blob/main/Del_1_Coefficients_Signif.jpg)
 
-Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-Is the slope of the linear model considered to be zero? Why or why not?
-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 ## Summary Statistics on Suspension Coils
 Summary:
@@ -18,7 +15,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 The overall variance (76.23), as well as variances for Lot 1 (1.15) and Lot 2 (10.13) are below this criteria. However, variance for Lot 3 was above this threshold (220.01).
 
 ## T-Tests on Suspension Coils
-briefly summarize your interpretation and findings for the t-test results. 
+Summary: 
 ![https://github.com/tarajarell/MechaCar_Statistical_Analysis/blob/main/Del_3_t-test_all_lots.jpg](https://github.com/tarajarell/MechaCar_Statistical_Analysis/blob/main/Del_3_t-test_all_lots.jpg)
 ![https://github.com/tarajarell/MechaCar_Statistical_Analysis/blob/main/Del_3_t-test_lots_1_2.jpg](https://github.com/tarajarell/MechaCar_Statistical_Analysis/blob/main/Del_3_t-test_lots_1_2.jpg)
 ![https://github.com/tarajarell/MechaCar_Statistical_Analysis/blob/main/Del_3_t-test_lots_1_3.jpg](https://github.com/tarajarell/MechaCar_Statistical_Analysis/blob/main/Del_3_t-test_lots_1_3.jpg)
